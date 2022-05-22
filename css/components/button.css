@@ -1,0 +1,18 @@
+.btn-blue {
+	background-color: #5BC0BE;
+	padding: 15px 20px;
+	border-radius: 4px;
+	border:  none;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Source Code Pro', monospace;
+}
+
+.btn-blue:hover{
+	background: #6FFFE9;
+	color: #0B132B;
+	transform:  translateY(-7px);
+	box-shadow: 0px 10px 25px
+		rgba(46, 223, 229, 0.44s);
+}

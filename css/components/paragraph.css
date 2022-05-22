@@ -1,0 +1,13 @@
+.paragraph {
+	padding: 40px;
+	color: #0B132B;
+	letter-spacing: 3px;
+	font-weight: bolder;
+	text-align: justify;
+}
+
+.important-point {
+	text-align: center;
+	font-weight: bolder;
+	padding:  30px;
+}
